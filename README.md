@@ -16,6 +16,7 @@ The goal of this project is to:
 
 ##  🔍 How a NAND Gate Works
 ![NAND Gate](https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/Truth-table-NAND-gate.png)
+
 The output becomes LOW only when both inputs are HIGH.
 
 Because of this property, the NAND gate is considered a Universal Logic Gate, meaning any digital circuit can be built using only NAND gates.
