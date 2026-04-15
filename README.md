@@ -25,7 +25,7 @@ Because of this property, the NAND gate is considered a Universal Logic Gate, me
 - BC547 Transistor (2)
 - RES (6)
 - led (1)
-- DC Input Voltage Module to Breadboard (2)
+- DC Input Voltage Module to Breadboard (1)
 - Button (2)
 
 ## 👨‍💻Software Application
