@@ -28,6 +28,10 @@ Because of this property, the NAND gate is considered a Universal Logic Gate, me
 - DC Input Voltage Module to Breadboard (2)
 - Button (2)
 
+## 👨‍💻Software Application
+The circuit was designed and tested using Proteus Design Suite, a professional software tool widely used for electronic circuit design and simulation.
+Proteus allows engineers and students to create electronic schematics, simulate circuit behavior, and verify circuit performance before building the physical hardware.
+
 ## 💯 Circuit Operation
 The transistors in the circuit operate in switching mode.
 
